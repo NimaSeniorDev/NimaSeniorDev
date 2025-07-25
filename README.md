@@ -14,7 +14,9 @@
 🌐 Portfolio: 🍀.dev
 ```
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimaSeniorDev&show_icons=true&theme=merko" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=merko" /> </p>
-
+<p align="center">
+  <img width="45.2%" src="https://github-readme-stats.vercel.app/api?username=NimaSeniorDev&show_icons=true&theme=merko" style="height:180px;" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimaSeniorDev&theme=merko" style="height:180px;" />
+</p>
 
 
