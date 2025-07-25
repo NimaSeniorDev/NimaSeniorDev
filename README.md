@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🍀 I'm <strong>N N</strong></h1>
-<p align="center">ML & DL Hacker | Pythonist | Vision & Signal Enthusiast</p>
+<p align="center">ML & DL Eng | Pythonist | Vision & Signal Enthusiast | LLM </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=808000&center=true&vCenter=true&width=435&lines=ML+Engineer;Deep+Learning+Developer;FastAPI+%7C+C+Programmer;Vision+%7C+LLMs+%7C+Signal+Processing" />
