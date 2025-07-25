@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🍀 I'm <strong>N N</strong></h1>
+<h1 align="center">Hey 🍀  <strong></strong></h1>
 <p align="center">ML & DL Eng | Pythonist | Vision & Signal Enthusiast | LLM </p>
 
 <p align="center">
