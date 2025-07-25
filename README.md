@@ -15,3 +15,8 @@
 ```
 
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimaSeniorDev&show_icons=true&theme=merko" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=merko" /> </p>
+
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C5622AQGjApoaNZSXGw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1657816820614?e=2147483647&v=beta&t=ttW4mV0lPdHXqAuiOPl6Z93dnnMyCUWTNTRwzp5Fluk" width="480" alt="Hacker animation" />
+</p>
