@@ -12,6 +12,6 @@
 🎯 Interests: ML systems, advanced Python, C-level hacking, signals
 📫 Contact: 🍀@example.com
 🌐 Portfolio: 🍀.dev
-
+```
 
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimaSeniorDev&show_icons=true&theme=merko" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=merko" /> </p>
