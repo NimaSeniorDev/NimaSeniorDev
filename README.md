@@ -10,7 +10,7 @@
    🍀 Working on: Computer Vision, LLM APIs, AI agent, smart sensors, federated learning
    🍀 Tools: Python, PyTorch, Flask, FastAPI, OpenCV, C, HuggingFace
    🍀 Interests: ML systems, advanced Python, C-level hacking, signals
-   🍀 Contact: _@example.com
+   🍀 Contact: _@mail.com
    🍀 Portfolio: _.dev
 ```
 
