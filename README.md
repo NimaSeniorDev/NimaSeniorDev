@@ -19,4 +19,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimaSeniorDev&theme=merko" style="height:180px;" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaSeniorDev&layout=compact&theme=merko" />
+</p>
 
